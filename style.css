@@ -1,0 +1,36 @@
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .5px;
+    
+}
+.headline{
+    font-size: 60px;
+}
+.infinity-run-2{
+    margin-top: -18px;
+}
+.button-icon{
+    height: auto;
+    width: auto;
+    margin-left: -10px;
+}
+.button-customization{
+    
+   
+}
+.button-text{
+    margin-top: 5px;
+}
+.penguine-card{
+    border: 0;
+    border-radius: 10px;
+}
+.penguine-card-img{
+    
+}
+.anti-border{
+    border: 0;
+}
+.border-radius{
+    border-radius: 10px;
+}
