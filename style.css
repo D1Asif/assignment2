@@ -4,11 +4,11 @@
         justify-content: flex-end;
     }
 }
-@media (max-width: 992px){
+@media (max-width: 768px){
     .logo-width{
         width: 200px;
     }
-
+    
 }
 .bebas{
     font-family: 'Bebas Neue', cursive;
@@ -42,4 +42,11 @@
 }
 .border-radius{
     border-radius: 10px;
+}
+
+@media (max-width: 768px){
+    .section-order{
+        order: 1;
+    }
+
 }
