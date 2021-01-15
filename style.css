@@ -1,7 +1,8 @@
-@media (min-width: 768px){
+@media (min-width: 992px){
     .desktop-menu{
         display: flex;
         justify-content: end;
+        
     }
 }
 .bebas{
