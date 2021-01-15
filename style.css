@@ -4,6 +4,12 @@
         justify-content: flex-end;
     }
 }
+@media (max-width: 992px){
+    .logo-width{
+        width: 200px;
+    }
+
+}
 .bebas{
     font-family: 'Bebas Neue', cursive;
     letter-spacing: .5px;
@@ -21,7 +27,7 @@
     margin-left: -10px;
 }
 .logo-width{
-    width: 280px;
+    width: 300px;
 }
 .button-text{
     margin-top: 5px;
