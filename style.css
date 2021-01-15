@@ -4,7 +4,7 @@
         justify-content: flex-end;
     }
 }
-@media (max-width: 768px){
+@media (max-width: 992px){
     .logo-width{
         width: 200px;
     }
